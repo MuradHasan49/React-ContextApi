@@ -3,10 +3,8 @@ import './App.css'
 import Grandpaa from './Components/FamilyTree/Grandpaa/Grandpaa'
 import { MyContext } from './Context/MyContext'
 
-const Somedata = 9;
-
 function App() {
-  const [data, setData] = useState(Somedata)
+  const [data, setData] = useState(10)
   return (
 
     <>
