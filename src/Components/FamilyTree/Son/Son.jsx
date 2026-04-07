@@ -4,7 +4,7 @@ import Girl from './Girl/Girl'
 
 const Son = () => {
   return (
-    <div>Father
+    <div>Son
       <Boy></Boy>
       <Girl></Girl>
     </div>
